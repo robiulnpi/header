@@ -1,0 +1,176 @@
+@font-face{
+	font-family:"SolaimanLipi";
+	src:url("font/SolaimanLipi.ttf");
+}
+body{
+	background:#2DA4E0;
+	margin:0;
+}
+#top_part{
+	background:#ff00ff;
+	height:78px;
+	width:1140px;
+	margin:0 auto;
+
+}
+.top_main{
+	width:1140px;
+	margin:0 auto;
+	
+}
+.top_phone{
+	width:176px;
+	float:left;
+	padding-left:15px;
+}
+.top_phone p{
+	color:#333333;
+	font:normal 25px "SolaimanLipi";
+	margin-top:20px;
+}
+.top_mail{
+	width:317px;
+	float:left;
+	margin-left:165px;
+}
+.top_mail p{
+	color:#fff;
+	font:normal 25px "SolaimanLipi";
+	margin-top:18px;
+}
+.top_search{
+	width:298px;
+	float:right;
+	margin-top:15px;
+}
+.serch_bar{
+	width:210px;
+	height:30px;
+	background:;
+	float:left;
+}
+.serch_bar:focus{
+	outline:none;
+}
+.button{
+	width:60px;
+	height:30px;
+	background:black;
+	color:white;
+	border:none;
+	cursor:pointer;
+}
+.button:focus{
+	outline:none;
+}
+#header{
+	width:1140px;
+	margin:0 auto;
+	overflow:hidden;
+	background:#ABB1BA;
+
+}
+.header_logo{
+	width:250px;
+	float:left;
+	padding-left:15px;
+}
+.header_logo h1{
+	color:#091af9;
+	font:normal 30px/65px "SolaimanLipi";
+	margin:0;
+}
+.header_nav{
+	width:550px;
+	float:right;
+	padding-left: 15px;
+}
+}
+.header_nav ul{
+	margin:0;
+	padding:0px;
+	
+}
+.header_nav ul li{
+	color:#25f909;
+	font:normal 20px "SolaimanLipi";
+	padding-left:30px;
+	list-style:none;
+	float:left;
+	
+}
+.header_nav ul li a{
+	color:#25f909;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+.header_nav ul li a:hover{
+	color:#000000;
+	text-decoration:underline;
+}
+#baner img{
+	margin:0 auto;
+	
+}
+.baner_main{
+	width:1140px;
+	margin:0 auto;
+	text-align:center;
+}
+.baner_main h2{
+	color:white;
+	font:normal 70px/75px "SolaimanLipi";
+	padding-top:160px;
+	margin:0;
+}
+.baner_main p{
+	color:blue;
+	font:normal 50px/70px "SolaimanLipi";
+	text-align:center;
+	margin-top:5px;
+	margin:0px;
+}
+.view{
+	color:red;
+	font:normal 20px/60px "SolaimanLipi";
+	background:yellow;
+	width:160px;
+	height:55px;
+	margin-top:7px;
+	border:none;
+	display:inline-block;
+	text-decoration:none;
+}
+.view:hover{
+color:black;
+background:white;
+
+}
+#round_pic{
+	background:#cccccc;
+	padding:25px 0 25px 0;
+}
+.main_pic{
+	width:1140;
+	margin:0 auto;
+	overflow:hidden;
+}
+.round_left{
+	width:320px;
+	float:left;
+}
+.round_mid{
+	width:320px;
+	float:left;
+	margin-left:40px;
+}
+.round_right{
+	width:320px;
+	float:right;
+}
+#round_pic h4{
+	background:#33ffcc;
+	color:#cc6600;
+	font:normal 25px "SolaimanLipi";
+	text-align:center;
+}
